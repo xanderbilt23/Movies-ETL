@@ -3,11 +3,9 @@ config.py
 
 # Adding additional files.
 Movielens Extract.ipynb
-movies_metadata.csv
-ratings.csv
 Transform.ipynb
 Untitled.ipynb
-wikipedia-movies.json
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
